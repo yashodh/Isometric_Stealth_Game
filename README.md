@@ -1,2 +1,2 @@
 # Isometric_Stealth_Game
-Prototype game showcasing stealth, AI patrol, Combat and takedowns, Parkour in isometric/3rd person view
+Isometric and 3rd person Prototype game showcasing gameplay mechanics stealth, AI patrol, Combat,takedowns and Parkour.
